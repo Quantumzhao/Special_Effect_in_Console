@@ -1,0 +1,9 @@
+C:\Users\frank\AppData\Local\Temporary Projects\ClassLibraryTest\bin\Debug\ClassLibraryTest.dll
+C:\Users\frank\AppData\Local\Temporary Projects\ClassLibraryTest\bin\Debug\ClassLibraryTest.pdb
+C:\Users\frank\AppData\Local\Temporary Projects\ClassLibraryTest\bin\Debug\ClassLibraryTest.xml
+C:\Users\frank\AppData\Local\Temporary Projects\ClassLibraryTest\obj\Debug\ClassLibraryTest.Resources.resources
+C:\Users\frank\AppData\Local\Temporary Projects\ClassLibraryTest\obj\Debug\ClassLibraryTest.vbproj.GenerateResource.Cache
+C:\Users\frank\AppData\Local\Temporary Projects\ClassLibraryTest\obj\Debug\ClassLibraryTest.vbproj.CoreCompileInputs.cache
+C:\Users\frank\AppData\Local\Temporary Projects\ClassLibraryTest\obj\Debug\ClassLibraryTest.dll
+C:\Users\frank\AppData\Local\Temporary Projects\ClassLibraryTest\obj\Debug\ClassLibraryTest.xml
+C:\Users\frank\AppData\Local\Temporary Projects\ClassLibraryTest\obj\Debug\ClassLibraryTest.pdb

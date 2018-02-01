@@ -1,0 +1,10 @@
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ClassLibraryTest1\ClassLibraryTest1\bin\Debug\ClassLibraryTest1.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ClassLibraryTest1\ClassLibraryTest1\bin\Debug\ClassLibraryTest1.pdb
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ClassLibraryTest1\ClassLibraryTest1\bin\Debug\ClassLibraryTest1.xml
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ClassLibraryTest1\ClassLibraryTest1\obj\Debug\ClassLibraryTest.Resources.resources
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ClassLibraryTest1\ClassLibraryTest1\obj\Debug\ClassLibraryTest1.vbproj.GenerateResource.Cache
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ClassLibraryTest1\ClassLibraryTest1\obj\Debug\ClassLibraryTest1.vbproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ClassLibraryTest1\ClassLibraryTest1\obj\Debug\ClassLibraryTest1.dll
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ClassLibraryTest1\ClassLibraryTest1\obj\Debug\ClassLibraryTest1.xml
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ClassLibraryTest1\ClassLibraryTest1\obj\Debug\ClassLibraryTest1.pdb
+C:\Users\frank\Documents\Visual Studio 2017\Projects\ClassLibraryTest1\ClassLibraryTest1\obj\Debug\ClassLibraryTest1.vbprojResolveAssemblyReference.cache
